@@ -4,3 +4,5 @@ There will be mainly three sections, as shown below, to help you better utilize 
 - User Preferences (settings)
 - Applications
 - Tips
+
+#### ... still updating
