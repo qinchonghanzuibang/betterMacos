@@ -32,13 +32,17 @@ You can change your **appearance, hightlight color, default web browser**,  in *
 
 - **Dock & Menu Bar**
 
-![general](./images/systemPreferences/dock.png)
+![Dock & menu bar](./images/systemPreferences/dock.png)
 
 You can change the **dock size, whether to and how much to magnify, position on screen** in **``Dock & Menu Bar``**. 
 
 **IMPORTANT:** Probably someone will be confused about the battery in menu bar in terms of showing the exact percentage since it is not in the battery section. The setting is actualy also in the Dock & Menu Bar. You have to scroll down and find the battery section as shown below (no idea why apple hides it so well). 
 
-![general](./images/systemPreferences/battery.png)
+![Battery](./images/systemPreferences/battery.png)
+
+
+
+- **Spotlight**
 
 
 
