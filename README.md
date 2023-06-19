@@ -22,4 +22,8 @@ Press ``Command + ,`` to open the preferences of Finder. Here is my configuratio
 
 I have mainly changed the **new Finder windows show:**, **items in the Sidebar**, **show filename extensions**. 
 
+#### 1.2 System Preferences. 
+
+
+
 #### ... still updating
