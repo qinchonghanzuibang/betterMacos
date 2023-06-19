@@ -15,8 +15,8 @@ macOS Finder is the default file management application for Apple's macOS operat
 
 Press ``Command + ,`` to open the preferences of Finder. Here is my configuration for your reference. 
 
-| ![finder_general](./images/finder_general.png) | ![finder_sidebar](./images/finder_sidebar.png) | ![finder_advanced](./images/finder_advanced.png) |
-| ---------------------------------------------- | ---------------------------------------------- | ------------------------------------------------ |
+| ![finder_general](./images/finder/finder_general.png) | ![finder_sidebar](./images/finder/finder_sidebar.png) | ![finder_advanced](./images/finder/finder_advanced.png) |
+| ----------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
 
 
 
