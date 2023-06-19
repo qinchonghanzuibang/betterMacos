@@ -44,7 +44,13 @@ You can change the **dock size, whether to and how much to magnify, position on 
 
 - **Spotlight**
 
+![Spotlight](./images/systemPreferences/spotlight.png)
 
+When you press **``Command + space``**, the default spotlight will open for you to search for the information you need in the macOS. Click or unclick the information you want the spolight to search for. For me, I have enabled all of them. 
+
+![Spotlight privacy](./images/systemPreferences/spotlightprivacy.png)
+
+If you do not want the information from certain folders to show up during your searching, add them in the privacy section. 
 
 - 
 
