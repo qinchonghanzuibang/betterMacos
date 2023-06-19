@@ -50,7 +50,14 @@ When you press **``Command + space``**, the default spotlight will open for you 
 
 ![Spotlight privacy](./images/systemPreferences/spotlightprivacy.png)
 
-If you do not want the information from certain folders to show up during your searching, add them in the privacy section. 
+If you do **not** want the information from certain folders to show up during your searching, add them in the **privacy** section. 
+
+- **Trackpad**
+
+| ![trackpad point and click](./images/systemPreferences/trackpadpoint.png) | ![trackpad scroll and zoom](./images/systemPreferences/trackpadzoom.png) | ![trackpad more gestures](./images/systemPreferences/trackpadmore.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+This is where you can customize your own **trackpad**, one of the most powerful tools in macOS. I have made minor changes. 
 
 - 
 
