@@ -75,8 +75,8 @@ This could be literally the **best** function ever. It is designed to automatica
 
 ### 1.3 Shortcuts
 
+![Shortcut basic](./images/MacOS Default/1.3 shortcuts/shortcut.png)
 
-
-
+I apologize for some of the Chinese names
 
 ### ... still updating
