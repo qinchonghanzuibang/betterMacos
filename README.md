@@ -75,6 +75,8 @@ This could be literally the **best** function ever. It is designed to automatica
 
 - #### Keyboard
 
+![Keyboard](./images/MacOS Default/1.2 systemPreferences/keyboard.png)
+
 
 
 ### 1.3 Shortcuts
