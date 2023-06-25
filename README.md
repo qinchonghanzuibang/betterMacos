@@ -5,11 +5,11 @@ There will be mainly three sections, as shown below, to help you better utilize 
 - Applications
 - Tips
 
-### 1. User Preferences
+## 1. User Preferences
 
 This section will share some of the settings of the macOS default applications. 
 
-#### 1.1 Finder
+### 1.1 Finder
 
 macOS Finder is the default file management application for Apple's macOS operating system. It serves as the graphical user interface (GUI) for navigating and organizing files, folders, and drives on a Mac computer. For users that recently switch from Windows, it is the alternative of **File Explorer**. 
 
@@ -22,7 +22,7 @@ Press **``Command + ,``** to open the preferences of Finder. Here is my configur
 
 I have mainly changed the **new Finder windows show, items in the Sidebar, show filename extensions**. 
 
-#### 1.2 System Preferences. 
+### 1.2 System Preferences. 
 
 - **General**
 
@@ -73,8 +73,8 @@ As mentioned previously, if you want to show the exact percentage of your batter
 
 This could be literally the **best** function ever. It is designed to automatically back up your entire Mac, including system files, applications, documents, photos, music, and other data, allowing you to easily recover files if they are accidentally deleted, lost, or if you need to restore your entire system.
 
-#### 1.3 
+### 1.3 
 
 
 
-#### ... still updating
+### ... still updating
