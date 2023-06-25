@@ -75,7 +75,7 @@ This could be literally the **best** function ever. It is designed to automatica
 
 - #### Keyboard
 
-<img src="./images/MacOS%20Default/1.2%20systemPreferences/keyboard.png" alt="Keyboard">
+![Keyboard](./images/MacOS%20Default/1.2%20systemPreferences/keyboard.png)
 
 
 
