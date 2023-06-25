@@ -24,13 +24,13 @@ I have mainly changed the **new Finder windows show, items in the Sidebar, show 
 
 ### 1.2 System Preferences. 
 
-- **General**
+- #### General
 
 ![general](./images/MacOS Default/1.2 systemPreferences/general.png)
 
 You can change your **appearance, hightlight color, default web browser**,  in **``General``**. 
 
-- **Dock & Menu Bar**
+- #### Dock & Menu Bar
 
 ![Dock & menu bar](./images/MacOS Default/1.2 systemPreferences/dock.png)
 
@@ -42,7 +42,7 @@ You can change the **dock size, whether to and how much to magnify, position on 
 
 
 
-- **Spotlight**
+- #### Spotlight
 
 ![Spotlight](./images/MacOS Default/1.2 systemPreferences/spotlight.png)
 
@@ -52,26 +52,30 @@ When you press **``Command + space``**, the default spotlight will open for you 
 
 If you do **not** want the information from certain folders to show up during your searching, add them in the **privacy** section. 
 
-- **Trackpad**
+- #### Trackpad
 
 | ![trackpad point and click](./images/MacOS Default/1.2 systemPreferences/trackpadpoint.png) | ![trackpad scroll and zoom](./images/MacOS Default/1.2 systemPreferences/trackpadzoom.png) | ![trackpad more gestures](./images/MacOS Default/1.2 systemPreferences/trackpadmore.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 This is where you can customize your own **trackpad**, one of the most powerful tools in macOS. I have made minor changes. 
 
-- **Battery**
+- #### Battery
 
 ![General Battery settings](./images/MacOS Default/1.2 systemPreferences/bigbattery.png)
 
 As mentioned previously, if you want to show the exact percentage of your battery, you cannot find the settings in the **``System Preferences/Battery``** directly. Here, you can only change some battery-related settings to protect your battery. 
 
-- **Time Machine**
+- #### Time Machine
 
 ***Please do have an harddrive to backup all your files in macos.*** 
 
 <img src="./images/MacOS Default/1.2 systemPreferences/timemachine.png" alt="Time machine" style="zoom:50%;" />
 
-This could be literally the **best** function ever. It is designed to automatically back up your entire Mac, including system files, applications, documents, photos, music, and other data, allowing you to easily recover files if they are accidentally deleted, lost, or if you need to restore your entire system.
+This could be literally the **best** function ever. It is designed to automatically back up your entire Mac, including system files, applications, documents, photos, music, and other data, allowing you to easily recover files if they are accidentally deleted, lost, or if you need to restore your entire system
+
+- #### Keyboard
+
+
 
 ### 1.3 Shortcuts
 
