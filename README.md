@@ -59,6 +59,22 @@ If you do **not** want the information from certain folders to show up during yo
 
 This is where you can customize your own **trackpad**, one of the most powerful tools in macOS. I have made minor changes. 
 
-- 
+- **Battery**
+
+![General Battery settings](./images/systemPreferences/bigbattery.png)
+
+As mentioned previously, if you want to show the exact percentage of your battery, you cannot find the settings in the **``System Preferences/Battery``** directly. Here, you can only change some battery-related settings to protect your battery. 
+
+- **Time Machine**
+
+***Please do have an harddrive to backup all your files in macos.*** 
+
+<img src="./images/systemPreferences/timemachine.png" alt="Time machine" style="zoom:50%;" />
+
+This could be literally the **best** function ever. It is designed to automatically back up your entire Mac, including system files, applications, documents, photos, music, and other data, allowing you to easily recover files if they are accidentally deleted, lost, or if you need to restore your entire system.
+
+#### 1.3 
+
+
 
 #### ... still updating
