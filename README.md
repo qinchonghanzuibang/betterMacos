@@ -1,13 +1,13 @@
 # betterMacos
 There will be mainly three sections, as shown below, to help you better utilize your Mac.
 
-- User Preferences (settings)
+- MacOS Default
 - Applications
 - Tips
 
-## 1. User Preferences
+## 1. MacOS Default
 
-This section will share some of the settings of the macOS default applications. 
+This section will share some useful default applications and their settings.
 
 ### 1.1 Finder
 
@@ -15,7 +15,7 @@ macOS Finder is the default file management application for Apple's macOS operat
 
 Press **``Command + ,``** to open the preferences of Finder. Here is my configuration for your reference. 
 
-| ![finder_general](./images/1. User Preferences/1.1 finder/finder_general.png) | ![finder_sidebar](./images/1. User Preferences/1.1 finder/finder_sidebar.png) | ![finder_advanced](./images/1. User Preferences/1.1 finder/finder_advanced.png) |
+| ![finder_general](./images/MacOS Default/1.1 finder/finder_general.png) | ![finder_sidebar](./images/MacOS Default/1.1 finder/finder_sidebar.png) | ![finder_advanced](./images/MacOS Default/1.1 finder/finder_advanced.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
@@ -26,25 +26,25 @@ I have mainly changed the **new Finder windows show, items in the Sidebar, show 
 
 - **General**
 
-![general](./images/1. User Preferences/1.2 systemPreferences/general.png)
+![general](./images/MacOS Default/1.2 systemPreferences/general.png)
 
 You can change your **appearance, hightlight color, default web browser**,  in **``General``**. 
 
 - **Dock & Menu Bar**
 
-![Dock & menu bar](./images/1. User Preferences/1.2 systemPreferences/dock.png)
+![Dock & menu bar](./images/MacOS Default/1.2 systemPreferences/dock.png)
 
 You can change the **dock size, whether to and how much to magnify, position on screen** in **``Dock & Menu Bar``**. 
 
 **IMPORTANT:** Probably someone will be confused about the battery in menu bar in terms of showing the exact percentage since it is not in the battery section. The setting is actualy also in the Dock & Menu Bar. You have to scroll down and find the battery section as shown below (no idea why apple hides it so well). 
 
-![Battery](./images/1. User Preferences/1.2 systemPreferences/battery.png)
+![Battery](./images/MacOS Default/1.2 systemPreferences/battery.png)
 
 
 
 - **Spotlight**
 
-![Spotlight](./images/1. User Preferences/1.2 systemPreferences/spotlight.png)
+![Spotlight](./images/MacOS Default/1.2 systemPreferences/spotlight.png)
 
 When you press **``Command + space``**, the default spotlight will open for you to search for the information you need in the macOS. Click or unclick the information you want the spolight to search for. For me, I have enabled all of them. 
 
@@ -54,14 +54,14 @@ If you do **not** want the information from certain folders to show up during yo
 
 - **Trackpad**
 
-| ![trackpad point and click](./images/1. User Preferences/1.2 systemPreferences/trackpadpoint.png) | ![trackpad scroll and zoom](./images/1. User Preferences/1.2 systemPreferences/trackpadzoom.png) | ![trackpad more gestures](./images/1. User Preferences/1.2 systemPreferences/trackpadmore.png) |
+| ![trackpad point and click](./images/MacOS Default/1.2 systemPreferences/trackpadpoint.png) | ![trackpad scroll and zoom](./images/MacOS Default/1.2 systemPreferences/trackpadzoom.png) | ![trackpad more gestures](./images/MacOS Default/1.2 systemPreferences/trackpadmore.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 This is where you can customize your own **trackpad**, one of the most powerful tools in macOS. I have made minor changes. 
 
 - **Battery**
 
-![General Battery settings](./images/1. User Preferences/1.2 systemPreferences/bigbattery.png)
+![General Battery settings](./images/MacOS Default/1.2 systemPreferences/bigbattery.png)
 
 As mentioned previously, if you want to show the exact percentage of your battery, you cannot find the settings in the **``System Preferences/Battery``** directly. Here, you can only change some battery-related settings to protect your battery. 
 
@@ -69,11 +69,13 @@ As mentioned previously, if you want to show the exact percentage of your batter
 
 ***Please do have an harddrive to backup all your files in macos.*** 
 
-<img src="./images/1. User Preferences/1.2 systemPreferences/timemachine.png" alt="Time machine" style="zoom:50%;" />
+<img src="./images/MacOS Default/1.2 systemPreferences/timemachine.png" alt="Time machine" style="zoom:50%;" />
 
 This could be literally the **best** function ever. It is designed to automatically back up your entire Mac, including system files, applications, documents, photos, music, and other data, allowing you to easily recover files if they are accidentally deleted, lost, or if you need to restore your entire system.
 
-### 1.3 
+### 1.3 Shortcuts
+
+
 
 
 
