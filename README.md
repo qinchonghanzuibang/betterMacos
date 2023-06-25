@@ -81,6 +81,6 @@ This could be literally the **best** function ever. It is designed to automatica
 
 ![Shortcut basic](./images/MacOS Default/1.3 shortcuts/shortcut.png)
 
-I apologize for some of the Chinese names
+You can ignore some of the shortcuts I created/copied if they are in Chinese.
 
 ### ... still updating
