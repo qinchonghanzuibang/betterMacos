@@ -1,7 +1,8 @@
-# betterMacos
-##### There will be mainly three sections, as shown below, to help you better utilize your Mac.
-
 <a id="top"></a>
+
+# betterMacos
+
+##### There will be mainly three sections, as shown below, to help you better utilize your Mac.
 
 - MacOS Default
 - Applications
