@@ -1,6 +1,8 @@
 # betterMacos
 ##### There will be mainly three sections, as shown below, to help you better utilize your Mac.
 
+<a id="top"></a>
+
 - MacOS Default
 - Applications
 - Tips
@@ -88,3 +90,6 @@ You can ignore some of the shortcuts I created/copied if they are in Chinese. Th
 ### ... still updating
 
 Application plan to introduce: iTerm2, Typora, Parallels Desktop, PDF Expert, Alfred, Downie4, Cheatsheet, One switch, Numi, Hand Mirror, Dropover...
+
+[Back to Top](#top)
+
