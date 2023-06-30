@@ -86,3 +86,5 @@ This could be literally the **best** function ever. It is designed to automatica
 You can ignore some of the shortcuts I created/copied if they are in Chinese.
 
 ### ... still updating
+
+Application plan to introduce: iTerm2, Typora, Parallels Desktop, PDF Expert, Alfred, Downie4, Cheatsheet, One switch, Numi, Hand Mirror, Dropover...
