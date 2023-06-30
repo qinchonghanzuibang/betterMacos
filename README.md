@@ -83,7 +83,7 @@ This could be literally the **best** function ever. It is designed to automatica
 
 ![Shortcut basic](./images/MacOS%20Default/1.3%20shortcuts/shortcut.png)
 
-You can ignore some of the shortcuts I created/copied if they are in Chinese.
+You can ignore some of the shortcuts I created/copied if they are in Chinese. This application is way underestimated and it is truly powerful. Please check [this video](https://www.youtube.com/watch?v=SNNuD-C3aX0) for a brief overview and feel free to google more shortcuts if interested.
 
 ### ... still updating
 
