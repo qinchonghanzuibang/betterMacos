@@ -16,7 +16,7 @@ This section will share some useful default applications and their settings.
 
 macOS Finder is the default file management application for Apple's macOS operating system. It serves as the graphical user interface (GUI) for navigating and organizing files, folders, and drives on a Mac computer. For users that recently switch from Windows, it is the alternative of **File Explorer**. 
 
-Press **``Command + ,``** to open the preferences of Finder. Here is my configuration for your reference. 
+Press **<span style="font-size: larger;">Command+,</span>** to open the preferences of Finder. Here is my configuration for your reference. 
 
 | ![finder_general](./images/MacOS%20Default/1.1%20finder/finder_general.png) | ![finder_sidebar](./images/MacOS%20Default/1.1%20finder/finder_sidebar.png) | ![finder_advanced](./images/MacOS%20Default/1.1%20finder/finder_advanced.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -31,13 +31,13 @@ I have mainly changed the **new Finder windows show, items in the Sidebar, show 
 
 ![general](./images/MacOS%20Default/1.2%20systemPreferences/general.png)
 
-You can change your **appearance, hightlight color, default web browser**,  in **``General``**. 
+You can change your **appearance, hightlight color, default web browser**,  in **<span style="font-size: larger;">General</span>**. 
 
 - #### Dock & Menu Bar
 
 ![Dock & menu bar](./images/MacOS%20Default/1.2%20systemPreferences/dock.png)
 
-You can change the **dock size, whether to and how much to magnify, position on screen** in **``Dock & Menu Bar``**. 
+You can change the **dock size, whether to and how much to magnify, position on screen** in **<span style="font-size: larger;">Dock & Menu Bar</span>**. 
 
 **IMPORTANT:** Probably someone will be confused about the battery in menu bar in terms of showing the exact percentage since it is not in the battery section. The setting is actualy also in the Dock & Menu Bar. You have to scroll down and find the battery section as shown below (no idea why apple hides it so well). 
 
@@ -49,7 +49,7 @@ You can change the **dock size, whether to and how much to magnify, position on 
 
 ![Spotlight](./images/MacOS%20Default/1.2%20systemPreferences/spotlight.png)
 
-When you press **``Command + space``**, the default spotlight will open for you to search for the information you need in the macOS. Click or unclick the information you want the spolight to search for. For me, I have enabled all of them. 
+When you press **<span style="font-size: larger;">Command+Space</span>**, the default spotlight will open for you to search for the information you need in the macOS. Click or unclick the information you want the spolight to search for. For me, I have enabled all of them. 
 
 ![Spotlight privacy](./images/MacOS%20Default/1.2%20systemPreferences/spotlightprivacy.png)
 
@@ -66,7 +66,7 @@ This is where you can customize your own **trackpad**, one of the most powerful 
 
 ![General Battery settings](./images/MacOS%20Default/1.2%20systemPreferences/bigbattery.png)
 
-As mentioned previously, if you want to show the exact percentage of your battery, you cannot find the settings in the **``System Preferences/Battery``** directly. Here, you can only change some battery-related settings to protect your battery. 
+As mentioned previously, if you want to show the exact percentage of your battery, you cannot find the settings in the **<span style="font-size: larger;">System Preferences/Battery</span>** directly. Here, you can only change some battery-related settings to protect your battery. 
 
 - #### Time Machine
 
