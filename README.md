@@ -8,7 +8,7 @@
 - Applications
 - Tips
 
-## 1. MacOS Default
+## 1. MacOS Default <a id="macos_default"></a>
 
 This section will share some useful default applications and their settings.
 
@@ -100,4 +100,6 @@ This is an extremely useful built-in application. Simply press **<span style="fo
 Application plan to introduce: iTerm2, Typora, Parallels Desktop, PDF Expert, Alfred, Downie4, Cheatsheet, One switch, Numi, Hand Mirror, Dropover...
 
 [Back to Top](#top)
+
+[Back to MacOS Default](#macos_default)
 
