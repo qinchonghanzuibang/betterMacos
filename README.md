@@ -88,6 +88,13 @@ This could be literally the **best** function ever. It is designed to automatica
 
 You can ignore some of the shortcuts I created/copied if they are in Chinese. This application is way underestimated and it is truly powerful. Please check [this video](https://www.youtube.com/watch?v=SNNuD-C3aX0) for a brief overview and feel free to google more shortcuts if interested.
 
+### 1.4 Activity Monitor
+
+![Activity monitor basics](./images/MacOS%20Default/1.4%20activityMonitor/default.png)
+
+This is an extremely useful built-in application. Simply press **<span style="font-size: larger;">Command+Alt+Esc</span>** to open the activity monitor. If you are switching from Windows to Mac, this is the alternative for task manager. 
+
+
 ### ... still updating
 
 Application plan to introduce: iTerm2, Typora, Parallels Desktop, PDF Expert, Alfred, Downie4, Cheatsheet, One switch, Numi, Hand Mirror, Dropover...
